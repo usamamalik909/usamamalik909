@@ -1,6 +1,6 @@
+![github-header-image (1)](https://github.com/usamamalik909/usamamalik909/assets/55856355/540944c0-6f89-4c80-bbbf-d7e5b94c91a6)
 
-## ![github-header-image](https://github.com/usamamalik909/usamamalik909/assets/55856355/0f0fbdf7-c87a-4fad-8caf-5d2776c3292e)
-Hi there 👋 I am a dedicated Front End Engineer with experience in developing and enhancing web applications. 
+##Hi there 👋 I am a dedicated Front End Engineer with experience in developing and enhancing web applications. 
 
 In my current role at Bizzclan, I have effectively collaborated with my team using version control and implemented unit tests for UI components and functions.
 
